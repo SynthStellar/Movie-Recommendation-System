@@ -33,6 +33,14 @@ We use the **MovieLens dataset** or a similar public dataset with:
    cd movie-recommendation-system
 ## 🗂 Topics
 
-#MachineLearning #RecommenderSystem #MovieRecommendation #ContentBasedFiltering #CollaborativeFiltering  
-#CosineSimilarity #Python #ScikitLearn #MovieLens #DataScience #NLP #TFIDF #JupyterNotebook
+- Machine Learning
+- RecommenderSystem 
+- MovieRecommendation
+- ContentBasedFiltering
+- CollaborativeFiltering
+- CosineSimilarity
+- Python
+- Scikit-learn
+- Data Science
+- NLP
 
